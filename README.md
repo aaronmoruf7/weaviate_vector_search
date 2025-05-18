@@ -39,7 +39,7 @@ Collection name: `sales_rag_docs`
 Change the line:
 
 ```python
-user_input = "Find all stationery in Germany"
+user_input = "Find all electronics in Germany"
 ```
 
 to any query you want. Note that for this poc, it only allows one filter at a time
